@@ -137,11 +137,7 @@ npm start
 
 ## 🧑‍🎨 Author
 
-**MotionBox** is built and maintained by **[Your Name]**,  
-as a personal learning project on CSS Animations and frontend motion design.
-
-> “Motion should feel alive — not mechanical.”  
-> — *MotionBox Philosophy*
+**MotionBox** is built and maintained by **me**, as a personal learning project on CSS Animations and frontend motion design.
 
 ---
 
